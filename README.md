@@ -1,1 +1,2 @@
-# bioinformatic-learner.github.io
+# bioinformatic-learner
+
